@@ -1,7 +1,7 @@
 package datafile
 
 import (
-	"bufio",
+	"bufio"
 	"os"
 )
 
